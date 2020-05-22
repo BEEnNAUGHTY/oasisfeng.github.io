@@ -1,12 +1,9 @@
 ---
 layout: post
 title: "AR & VR 将如何深刻影响未来的城市化进程"
-image: https://ww2.sinaimg.cn/bmiddle/006pgc4hjw1f1ga90w8gaj30ib0codjf.jpg
+image: http://ww2.sinaimg.cn/bmiddle/006pgc4hjw1f1ga90w8gaj30ib0codjf.jpg
 published: true
 ---
-
-
-
 
 　　如果说AR & VR（以下简称AVR）将深刻改变AV产业，想必你一定没有异议。但如果我接下来告诉你，它们可能还会在5-10年内显著影响一线城市的房价，你也许就会嗤之以鼻了。
 
